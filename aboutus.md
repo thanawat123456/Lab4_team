@@ -28,3 +28,9 @@
     <img src="./media/peerapat.jpg" width="500" height="500">
 </figure>
 
+### No.5 Supisara Nowa sec 03
+#### Username: spsrpim
+#### รับผิดชอบในส่วนของ  Paragraphs 17-18
+<figure>
+    <img src="./media/pim.jpg" width="500" height="500">
+</figure>
