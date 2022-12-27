@@ -41,3 +41,11 @@
 <figure>
     <img src="./media/mint.jpg" width="500" height="500">
 </figure>
+
+
+### No.7 Duanghathai Singcharoen sec 03
+#### Username: duanghathai131-7
+#### รับผิดชอบในส่วนของ  Paragraphs 21-26
+<figure>
+    <img src="./media/por.jpg" width="500" height="500">
+</figure>
