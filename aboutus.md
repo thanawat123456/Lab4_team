@@ -14,3 +14,10 @@
     <img src="./media/bambam.jpg" width="500" height="500">
 </figure>
 
+### No.3 Juthaporn Thanoi sec 03
+#### Username: Juthaporn-Thanoi
+#### รับผิบผิดชอบในส่วน  Paragraphs 9-12
+<figure>
+    <img src="./media/baew.jpg" width="500" height="500">
+</figure>
+
