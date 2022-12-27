@@ -34,3 +34,10 @@
 <figure>
     <img src="./media/pim.jpg" width="500" height="500">
 </figure>
+
+### No.6 Chalita Sornsakda sec 03
+#### Username: viiichltx
+#### รับผิดชอบในส่วนของ  Paragraphs 19-20
+<figure>
+    <img src="./media/mint.jpg" width="500" height="500">
+</figure>
