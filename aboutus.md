@@ -23,7 +23,7 @@
 
 ### No.4 Peerapat sitthikot sec 03
 #### Username: Peerapat-sitthikot
-#### รับผิดชอบในส่วน  Paragraphs 13-16
+#### รับผิดชอบในส่วนของ  Paragraphs 13-16
 <figure>
     <img src="./media/peerapat.jpg" width="500" height="500">
 </figure>
